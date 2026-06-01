@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Debopriyo Hridoy - [hridoy1000][website] 👋
 
-[![Website](https://img.shields.io/website?label=hridoy1000.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hridoy1000.github.io/my-portfoilio/)
+[![Website](https://img.shields.io/website?label=hridoy1000.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hridoy1000.github.io/hridoy-portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hridoy1000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DEBOPRI0483914)
 
 ## I'm a Learner, Thinker, Developer, and a Good Son!!
