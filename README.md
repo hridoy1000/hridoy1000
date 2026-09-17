@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything and foucusing on me 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Deep dive into Data science  
+- 🥅 2027 Goals: Deep dive into AI, especially Health AI and a prospective PhD.
 - ⚡ Fun fact: I love to think, read books and sometimes to play guitar
 
 ### 📫 How to reach me:
